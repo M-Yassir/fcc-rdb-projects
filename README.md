@@ -55,4 +55,5 @@ Celestial object catalog with stars, galaxies, and planetary data. Demonstrates 
 **PostgreSQL + Bash**  
 A complete rental management system with inventory tracking, customer rentals, and payment processing. Includes reporting features.
 
-These projects demonstrate practical skills in database design, Bash scripting, and developer tooling. From simple terminal games to complex relational systems, each solution highlights efficient data management and command-line proficiency. Ready to apply these fundamentals to larger-scale applications and continue expanding my backend expertise.
+## 🔑 Key Takeaways  
+Through these projects, I've built a strong foundation in **PostgreSQL, Bash scripting, and Git**—transforming theoretical knowledge into functional database solutions. Excited to tackle more complex systems and optimize real-world data workflows. 
