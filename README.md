@@ -6,7 +6,7 @@
 
 This repository contains projects completed as part of freeCodeCamp's **Relational Database Certification**, demonstrating proficiency with developer tools, PostgreSQL, and Bash scripting.
 
-[🔗 View Certification](https://www.freecodecamp.org/certification/M_Yassir/relational-database-v8)
+[🔗 View Certification](https://www.freecodecamp.org/certification/m_yassir/relational-database-v8)
 
 ## 🛠 Skills Covered
 
