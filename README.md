@@ -56,4 +56,4 @@ Celestial object catalog with stars, galaxies, and planetary data. Demonstrates 
 A complete rental management system with inventory tracking, customer rentals, and payment processing. Includes reporting features.
 
 ## 🔑 Key Takeaways  
-Through these projects, I've built a strong foundation in **PostgreSQL, Bash scripting, and Git**—transforming theoretical knowledge into functional database solutions. Excited to tackle more complex systems and optimize real-world data workflows. 
+Through these projects, I've built a strong foundation in **PostgreSQL, Bash scripting, and Git**, transforming theoretical knowledge into functional database solutions. Excited to tackle more complex systems and optimize real-world data workflows. 
